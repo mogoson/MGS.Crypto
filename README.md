@@ -8,10 +8,10 @@ Crypto algorithm.
 
 ## Ability
 
-- [Symmetric Algorithm](./Documentation~/Symmetric Algorithm.md).
-- [Asymmetric Algorithm](./Documentation~/Asymmetric Algorithm.md).
-- [Hash Algorithm](./Documentation~/Hash Algorithm.md).
-- [HMAC Algorithm](./Documentation~/HMAC Algorithm.md).
+- Symmetric Algorithm.
+- Asymmetric Algorithm.
+- Hash Algorithm.
+- HMAC Algorithm.
 
 ## Install
 
